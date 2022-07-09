@@ -1,6 +1,6 @@
 # Data-science
 
-im rnad abu jqaim , im python coach this is the fist session of data science for biggners. 
+im rnad abu jqaim , im python coach this is the first session of data science for biggners. 
 data science : we talked about in in slides so its a smart way to model data depends on machine learning tools .
 ----------------------------
 # data science life cycles : 
